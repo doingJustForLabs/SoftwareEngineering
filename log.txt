@@ -1,0 +1,37 @@
+commit 79480559071c24714cf4ebea618ffd7268af7507
+Author: Holnstein <karaelfimka@gmail.com>
+Date:   Thu Nov 28 10:14:28 2024 +0300
+
+    Destroy the Help
+
+commit 21686025010a86234aa07511187cb5005a128b89
+Author: Holnstein <71943616+Holnstein@users.noreply.github.com>
+Date:   Thu Nov 28 10:07:01 2024 +0300
+
+    Create help_1
+    
+    Just for fun
+
+commit e38280f3802c5f47409cd017394196e61a776850
+Author: Holnstein <karaelfimka@gmail.com>
+Date:   Thu Nov 28 09:48:38 2024 +0300
+
+    Delete task3.docx
+
+commit c786fefbec18ba7f0b72e2a87e352a59491b4178
+Author: Holnstein <71943616+Holnstein@users.noreply.github.com>
+Date:   Thu Nov 28 09:34:44 2024 +0300
+
+    Add files via upload
+
+commit 206c149231c0b1a25795293c69184b348cf80dd3
+Author: Holnstein <71943616+Holnstein@users.noreply.github.com>
+Date:   Thu Nov 28 09:30:34 2024 +0300
+
+    Add files via upload
+
+commit 57f1f1fe69c4958d62cbd25f77636a988c209e57
+Author: Holnstein <71943616+Holnstein@users.noreply.github.com>
+Date:   Thu Nov 28 09:09:25 2024 +0300
+
+    Initial commit
